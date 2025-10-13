@@ -1,16 +1,16 @@
-## Hi there 👋
+## Привет 👋
 
-<!--
-**StefonovaA/StefonovaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Алёна
 
-Here are some ideas to get you started:
+✨ Коротко обо мне ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Я закончила Волгоградский государственный медицинский университет по профилю "Педиатрия"
+- :mortar_board: Прошла ординатура по специальности "Неврология"
+- :mortar_board: Являюсь врачом-неврологом 2 категории
+
+ 
+ 🔭 В настоящее я работаю в ГУЗ "Детская поликлиника №1" на должности врач-невролог
+  
+ 
+ 🌱 В настоящее время прохожу обучение в школе Skillfactory по направлению: "Профессия Data scientist в медицине"
+
