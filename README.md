@@ -14,3 +14,6 @@
  
  🌱 В настоящее время прохожу обучение в школе Skillfactory по направлению: "Профессия Data scientist в медицине"
 
+Kaggle: [ссылка] [https://www.kaggle.com/](https://www.kaggle.com/helenastefonova)
+
+Gitlab
